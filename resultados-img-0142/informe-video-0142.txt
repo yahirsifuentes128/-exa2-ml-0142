@@ -1,0 +1,11 @@
+INFORME DE PROCESAMIENTO DE VIDEO
+=============================================
+Video: video-gato-0142.mp4
+Resolucion original: 1080 x 1920
+FPS originales: 30.00
+Duracion estimada: 10.03 s
+Fotogramas leidos: 301
+Fotogramas guardados: 6
+FPS promedio de procesamiento: 82.89
+Tiempo total de ejecucion: 15.70 s
+Intervalo de guardado: 2.0 s
